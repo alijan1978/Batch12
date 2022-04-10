@@ -1,0 +1,20 @@
+
+Review Class 3/10/2022 with Sohail:
+
+
+Methods:
+
+- We can pass arguments
+- we can provide conditions
+- we can have dynamic return type (anything like String, int, etc)
+-
+***********************************************88
+
+String:
+
+String is a collection of characters and each character has specific index position.
+
+We mostly use String 99.9 % in daily life and real world job.
+String manipulation, declare string, add string, ...
+if you work on Word Doc or Excel sheet, username, password, Test Cases in work, its all String format parameter.
+So, its very important to learn better String. No String, No Testing.

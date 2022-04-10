@@ -1,0 +1,45 @@
+Review Class with Sohail:
+3/3/2022
+
+What is class?
+whenever we create a code, there is an intention behind it, we have to achieve our motive when we execute it.
+To run or execute the code, we need some certain things, we need functionality, lots of factors to acheive one goal.
+to put all things in a single place is called CLASS.
+Fields, variables, constructors, Loops, etc... all we type and put all these things in single things are called CLASS.
+
+When it comes to technical definition: definition, explanation, implementation and execution.
+
+We call it a template, or blueprint, or logical entity to include all these information and retrive these motive
+or the target and that is an OBJECT. to make one practical proterty, we need to call it OBJECT Oriented programming language.
+everything is surrounded by Object.
+
+What is Object:
+
+We have lots of things in class, we need one point to access to those information
+or to a elements, or fields of that specific class is called Object.
+Object always takes care of these two things:
+
+ 1. State 2. Behavior.
+
+State:
+Attribute,
+
+Bhavior:
+You want to perform an action, then you provide those entity to
+
+when we want to access the object,
+Why we can't directly interact with the Class?
+but it will be one time interaction face to face, BUT if you interact through Object then you can interact multiple time, things.
+
+Now the requirement of business Market is Dynamic and we change some things according to the requirement.
+
+------------------------------------------------------
+
+
+
+
+
+
+
+
+

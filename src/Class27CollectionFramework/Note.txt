@@ -1,0 +1,70 @@
+
+3/26/2022 Collections Framework in Java:
+
+********** 8 bits = 1 byte
+********* 01010010 **** so each 0 or 1 is called bit, BUT 8 bits are called 1 Bye.
+
+Wrapper class has built-in methods...BUT it takes 4 more times memory space than a regular primitive data type takes.
+
+For example: int is a primitive data type and takes 32 bits(4 bytes) to store.
+Integer is an object which takes 128 bits (16 bytes) to store its int value
+
+BUT primitives are faster in service and save memory space.
+========================================================================
+
+
+
+It is a Collection of classes that help up manage and manipulate data in a better way.
+1. Arraylist:
+    a. this class has many built-in methods like add(), remove(), clear(), etc.
+    b. Dynamic and can adjust their size at run time
+    c
+
+  To declare an ArrayList:
+
+  ArrayList<String> arrayList = new ArrayList<>;
+  Array =-- > name of the class
+  < > -- Diamond operator, we specify the data type
+  =========
+
+  Wrapper Classes
+  byte   => Byte
+  double => Double
+  int    => Integer
+  short  => Short
+  char   => Character
+
+  For each primitive data type, there is a wrapper inside classes to convert data types.
+  we can put any class name inside < > , but not primitive data type.
+
+  Why Wrapper classes:
+  - we get built-in methods
+  - a lot of frameworks don't support primitives
+
+  When to use Wrappers:
+  - when we care about easiness
+
+  When to use primitives:
+  - when we care about the memory because primitives occupy 4 times less memory as compared to Wrapper.
+  - When we care about performance, we also use primitive for faster service
+
+  - Wrapper classes provide a way to use primitive data types (int, boolean, etc.) as object.
+  - Wrapper class in java provides the mechanism to convert primitive into object and object into primitive.
+  - sometimes, we must use wrapper classes. for example: when working with Collection objects,
+   such as ArrayList, where primitive types cannot be used.
+
+ - Each java primitive has a corresponding wrapper:
+        - boolean, byte, short, char, int, long, float, double
+        - Boolean, byte, Short, character, Integer, Long, Float, Double
+===============================================================
+
+"Boxing" refers to converting a primitive value into a corresponding wrapper object.
+When a wrapper object unwrapped into a primitive value, then this is known as unboxing.
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+
+Difference between Instance variable and Static variable:
+
+Static belongs to a class, it is initialized only once. no need to create an object.
+
+Instance Example:
+
+Name , Lastname, speciality of docotors.... comes under Instance... as many class we can create.
+then we can able to create object for each. we instantiate their variables. a copy of the variable will be shared
+to all objects.
+
+
+Hospital should be Static

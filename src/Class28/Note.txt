@@ -1,0 +1,28 @@
+3/27/2022 Recap: Wrapper Class
+================================
+Wrapper classes are object types for all the primitive types. When we use the wrapper classes we get all the benefit
+of the classes an objects. For example: We can have methods.
+
+Also, generics works with only classes not primitives, so Wrapper is used here for generics between < > angle bracket (Diamond Operator).
+ Question: Why we use Wrapper class?
+ - because the collection  Framework doesn't support Generics, that's why we use Wrapper class.
+
+Boxing in Wrapper classes:
+Boxing happens when we convert a primitive to corresponding wrapper type. Example:
+int num = 10;
+**** Integer num2 = new Integer(num); // this is called boxing -- > primitive to wrapper
+
+Unboxing happens when we convert a wrapper object to a corresponding primitive type. Example:
+
+***** Integer num2 = new Integer(10); -- > int num = num2.intValue(); // this ic wrapper to primitive
+
+These below are autoboxing and auto unboxing:
+Integer num = 10; // autoboxing
+int num2 = num; // auto unboxing
+=============================================================================
+
+List : it is an interface in collections framework which is implemented by two classes, ArrayList & LinkedList.
+1. We can store the duplicate values in lists
+2. Insertion order is maintained. (Insertion means value inside array list [ ] .
+
+

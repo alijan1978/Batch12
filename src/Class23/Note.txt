@@ -1,0 +1,36 @@
+
+3/12/2022
+Interview question:
+Can we overload a method?
+
+Recap: Method Overloading in Java:
+
+When same method name exists in a class, but with different name of parameters or different data type of
+parameters OR different sequence of parameters.
+
+Advantages of Method Overloading:
+- Flexibility of having same name methods in a class.
+- End User gets the benefit that he does not need to remember different method names.
+No Disadvantages in Method overloading.
+
+Rules:
+- We overload the constructors
+- We can overload the static methods as well
+- We can overload the main methods as well
+
+
+Rules for Static Methods:
+- Static methods cannot access instance fields directly
+- Instance methods can access instance as well static fields directly
+
+Review these following classes for SELENIUM CLASS:
+
+- if else conditions
+- Loops
+- methods
+- some inheritance
+- Constructor and this keyword
+- Access modifiers
+- Types of local variables
+- creating objects from a class
+

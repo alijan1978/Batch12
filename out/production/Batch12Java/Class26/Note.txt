@@ -1,0 +1,42 @@
+3/20/2022
+
+Recap: Abstraction in Java:
+
+Hiding the implementation details and providing the functionality only.
+Two methods to achieve abstraction:
+
+1. Abstract classes
+2. Interfaces
+
+Abstract classes are with abstract keyword.
+Interfaces are the contracts that we create with the help fo interface keyword.
+
+How to decide which one to use:
+1. Prefer the interfaces over abstract classes.
+2. If two or more classes are closely related to each other, go with abstract classes.
+For exampe: if we have to create a Lion class and a Horse class, we should go with abstract classes and
+            should create an animal abstract class.
+ BUT if two classes are not related to each other, like Apple and Cloth classes, then we should create an interface
+ for that like if we want to have a behavior of washAble.
+====================================================================================================
+
+Encapsulation:
+
+Its protection, provide security, putting variables inside a capsule and display private field .
+It is the 4th pillars of the OOPS, it provides security and better control over the data of a class.
+We create classes and inside those classes, we create "private fields and methods".
+The methods are called "getter and setter methods" and we set and get the values of the class fields with
+the help of these methods instead of accessing and modifying them directly.
+
+==========================IMPORTANT termonology==============
+
+Eclipse Vs. Intellij
+
+Eclipse = workspace
+Intellij = Project
+
+Eclipse = project
+Intellij = Module
+
+
+
